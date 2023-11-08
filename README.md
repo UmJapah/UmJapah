@@ -9,13 +9,11 @@
 
 🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | 
 
-👩‍💻 Atualmente eu trabalho como Técnico e fundador da @buystoreh(https://www.instagram.com/buystoreh/)
+👩‍💻 Atualmente eu trabalho como Técnico e fundador da [@buystoreh](https://www.instagram.com/buystoreh/)
 
 🔎 Também sou curioso sobre tudo em tecnologia, eletrônicos e mundo automotivo ( mecanica, veículos antigos e esportivos )
 
 ✒ Eu gosto de no meu tempo livre de buscar novos conhecimentos, estou sempre estudando e procurando aprender;
-
-📚 Lendo: [Livro que está lendo atualmente]
 
 ### Eu já trabalhei com área de vendas e manutenção de eletrônicos🔧
 
