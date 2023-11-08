@@ -13,7 +13,7 @@
 
 🔎 Também sou curioso sobre tudo em tecnologia, eletrônicos e mundo automotivo ( mecanica, veículos antigos e esportivos )
 
-✒ Eu gosto de no meu tempo livre de buscar novos conhecimentos, estou sempre estudando e procurando aprender;
+✒ Eu gosto no meu tempo livre de buscar novos conhecimentos, estou sempre estudando e procurando aprender;
 
 ### Eu já trabalhei com área de vendas e manutenção de eletrônicos🔧
 
