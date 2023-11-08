@@ -1,6 +1,4 @@
-# academy-template-readme-profile
-
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo Joe, mas pode se sentir à vontade para me chamar de Japa👋
 
 ### Sobre mim
 
@@ -11,17 +9,17 @@
 
 🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade | Escola | Curso]
 
-👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
+👩‍💻 Atualmente eu trabalho como Técnico e fundador da @buystoreh
 
-🔎 Também sou curioso sobre [Temas que você gosta]
+🔎 Também sou curioso sobre tudo em tecnologia, eletrônicos e mundo automotivo ( mecanica, veículos antigos e esportivos )
 
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
+✒ Eu gosto de no meu tempo livre de buscar novos conhecimentos, estou sempre estudando e procurando aprender;
 
 📚 Lendo: [Livro que está lendo atualmente]
 
-### Eu já trabalhei com... 🔧
+### Eu já trabalhei com área de vendas e manutenção de eletrônicos🔧
 
-**Tecnologias e Ferramentas**
+*Tecnologias e Ferramentas*
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
@@ -63,17 +61,17 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/lbguilherme">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/UmJapah">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmJapah&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmJapah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
 <div>
 <a href="https://www.youtube.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/umjapa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/UmJapa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
@@ -81,5 +79,5 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
 
 <!--
-**academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*academy-readme-template* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
