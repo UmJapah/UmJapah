@@ -52,7 +52,7 @@
 
 ![DDS Cubos Academy](https://img.shields.io/badge/-DDS%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
 ![DBE Cubos Academy](https://img.shields.io/badge/-DBE%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
-![RSTI FRONT END - SENAC](![image](![image]([https://github.com/UmJapah/UmJapah/assets/104688660/73602ea2-5615-4258-b066-9aa5fc081d6b](https://www.senacrs.com.br/hotsite/programarsti/imagens/logo_rsti_color.png))
+![RSTI FRONT END - SENAC](![image][https://github.com/UmJapah/UmJapah/assets/104688660/73602ea2-5615-4258-b066-9aa5fc081d6b](https://www.senacrs.com.br/hotsite/programarsti/imagens/logo_rsti_color.png))
 )
 
 <!--
